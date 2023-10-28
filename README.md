@@ -3,4 +3,3 @@
 Try to make your own project with this starter pack:
 - [Starter project](https://bit.ly/StarterKoT)
 - [Figma](https://bit.ly/FigmaKoT)
-- Join us on [Discord](http://discord.gg/S4rrXQU)
